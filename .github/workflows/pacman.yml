@@ -1,0 +1,26 @@
+name: Generate Pacman eating contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Pacman SVG
+        uses: Platane/pacman-contribs@main
+        with:
+          github_user_name: RetardRento
+          output: dist/pacman.svg
+
+      - name: Push generated SVG
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add dist/pacman.svg
+          git commit -m "update pacman svg"
+          git push
