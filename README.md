@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Karthikeya
 
-<!--
-**RetardRento/RetardRento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+I'm a **Full Stack Developer, ML Engineer & Data Analyst** passionate about building scalable applications, automating workflows, and extracting insights from data.  
+
+- 🌱 Skilled in **React, FastAPI, Bun.js, AWS, and AI solutions**  
+- 📊 Experienced with **data analysis, visualization, and automation pipelines**  
+- ☁️ Worked on cloud deployments with **AWS Lambda, DynamoDB, and S3**  
+- 💡 Love blending **full-stack development** with **data-driven intelligence**  
+
+---
+
+### 🛠️ Tech Stack  
+**Frontend:** React, Vite, Tailwind, Next.js  
+**Backend:** FastAPI, Bun.js, Node.js, Flask  
+**Database:** MySQL, MongoDB, DynamoDB  
+**Cloud & DevOps:** AWS (Lambda, S3, EC2), Docker  
+**ML/Data:** TensorFlow, PyTorch, Pandas, NumPy  
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=retardrento&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retardrento&theme=radical" alt="GitHub streak" />
+</p>
+
+---
+
+### 🎮 Fun Zone  
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
