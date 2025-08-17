@@ -30,7 +30,3 @@ I'm a **Full Stack Developer, ML Engineer & Data Analyst** passionate about buil
 
 ---
 
-### 🎮 Fun Zone  
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
