@@ -1,7 +1,9 @@
 # Hi there, I'm Karthikeya Somayajula 👋  
 
 
-![snake gif](https://github.com//RetardRento//RetardRento/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/RetardRento/RetardRento/output/github-snake-dark.svg)
+
+
 
 ---
 
